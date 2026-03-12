@@ -113,10 +113,11 @@ preco_competidores.id_produto ──→ produtos.id_produto
 
 ### 🔍 Explorar dados
 1. Que dados temos disponíveis? *(Exemplo 01)*
+<img src="reports/figures/aula_1/dados_disponiveis.png" width="45%" />
 
-2. Quais os produtos mais caros? *(Exemplo 02)*
+3. Quais os produtos mais caros? *(Exemplo 02)*
 
-3. Quais as maiores vendas? *(Exemplo 02)*
+4. Quais as maiores vendas? *(Exemplo 02)*
 
 
 ### 🔎 Filtrar e transformar
