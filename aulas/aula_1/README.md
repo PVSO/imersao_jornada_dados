@@ -112,53 +112,55 @@ preco_competidores.id_produto ──→ produtos.id_produto
 ## ❓ Perguntas de Negócio Respondidas
 
 ### 🔍 Explorar dados
-1. Que dados temos disponíveis? *(Exemplo 01)*
-<img src="reports/figures/aula_1/dados_disponiveis.png" width="45%" />
+1. Que dados temos disponíveis?
+<img src="/reports/figures/aula_1/dados_disponiveis.png"/>
 
-3. Quais os produtos mais caros? *(Exemplo 02)*
+2. Quais os produtos mais caros?
 
-4. Quais as maiores vendas? *(Exemplo 02)*
+3. Quais os produtos mais caros?
+
+4. Quais as maiores vendas?
 
 
 ### 🔎 Filtrar e transformar
-4. Quais vendas são do e-commerce? *(Exemplo 03)*
+4. Quais vendas são do e-commerce?
 
-5. Quais produtos custam entre R$ 100 e R$ 500? *(Exemplo 03)*
+5. Quais produtos custam entre R$ 100 e R$ 500?
 
-6. Existem vendas com dados inválidos? *(Exemplo 03)*
+6. Existem vendas com dados inválidos?
 
-7. Qual a receita de cada venda? *(Exemplo 04)*
+7. Qual a receita de cada venda?
 
 
 ### 📈 Métricas e agrupamentos
-8. Qual a receita total e ticket médio? *(Exemplo 05)*
+8. Qual a receita total e ticket médio?
 
-9. Quantos clientes únicos compraram? *(Exemplo 05)*
+9. Quantos clientes únicos compraram?
 
-10. Qual a receita por canal de venda? *(Exemplo 06)*
+10. Qual a receita por canal de venda?
 
 
 ### 🔗 Análises com JOINs
-11. Quais produtos foram vendidos e para quem? *(Exemplo 07)*
+11. Quais produtos foram vendidos e para quem?
 
-12. Qual a receita por categoria? *(Exemplo 08)*
+12. Qual a receita por categoria?
 
-13. Qual a receita por marca? *(Exemplo 08)*
+13. Qual a receita por marca?
 
-14. Qual a receita por estado? *(Exemplo 08)*
+14. Qual a receita por estado?
 
 
 ### 🏷️ Classificações e rankings
 
-15. Qual a faixa de preço de cada produto? *(Exemplo 09)*
+15. Qual a faixa de preço de cada produto?
 
-16. Qual o ranking dos produtos por receita? *(Exemplo 10)*
+16. Qual o ranking dos produtos por receita?
 
-17. Qual o percentual de receita por canal? *(Exemplo 10)*
+17. Qual o percentual de receita por canal?
 
 
 ### 🏆 Análise completa
-18. Como montar um KPI completo estilo dashboard? *(Exemplo 11)*
+18. Como montar um KPI completo estilo dashboard?
 
 
 ---
