@@ -113,7 +113,7 @@ preco_competidores.id_produto ──→ produtos.id_produto
 
 ### 🔍 Explorar dados
 1. Que dados temos disponíveis?
-<img src="/reports/figures/aula_1/dados_disponiveis.png"/>
+<img src="../../reports/figures/aula_1/dados_disponiveis.png"/>
 
 2. Quais os produtos mais caros?
 
